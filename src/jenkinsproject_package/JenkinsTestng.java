@@ -28,6 +28,11 @@ public class JenkinsTestng {
 		System.out.println("my first test case");
 		
 	}
+	  @Test
+	  public void bat()
+	  {
+		  System.out.println("my fourth test case");
+	  }
 	  
 	  
  
